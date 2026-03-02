@@ -1,3 +1,3 @@
 # otel
 
-basic scripts for running a local otel collector instance
+otel collector and utilities for running debug instance locally
